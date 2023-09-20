@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yash verma
 - 👀 I’m interested in learning new things in data science and new techniques to get deep insights.
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me yashvermam266@gmail.com
 
 <!---
